@@ -28,4 +28,6 @@ Note: Please backup your running source code and database first.
         Find Paykun Payment and follow below screen shot
         ![alt text](https://github.com/paykun-code/Opencart-2.X/blob/master/screenshots/Payments-install-and-enter-all.png)
         
+        Enter Configurations.
+        ![alt text](https://github.com/paykun-code/Opencart-2.X/blob/master/screenshots/Entering-credentials.png)
     
