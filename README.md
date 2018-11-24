@@ -22,6 +22,6 @@ Note: Please backup your running source code and database first.
   2. Now copy the directory admin, catalog, system folder from the extracted zip and replace this directories
      on the location yourwebsite-opencart-installed-path/override admin directory and other too.   
   3. Now login to the admin panel and do same as given in screen shot.
- 
- ![alt text](https://github.com/paykun-code/Opencart-2.X/blob/master/screenshots/Dashboard-extension-payments.png)
+        
+        ![alt text](https://github.com/paykun-code/Opencart-2.X/blob/master/screenshots/Dashboard-extension-payments.png)
     
