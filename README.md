@@ -30,4 +30,7 @@ Note: Please backup your running source code and database first.
         
         Enter Configurations.
         ![alt text](https://github.com/paykun-code/Opencart-2.X/blob/master/screenshots/Entering-credentials.png)
-    
+
+Now you will be able to see Paykun Payment method in the checkout page.
+
+#<h3> In case of any query, please contact to support@paykun.com.</h3>    
