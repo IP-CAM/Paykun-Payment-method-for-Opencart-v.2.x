@@ -25,6 +25,7 @@ Note: Please backup your running source code and database first.
         
         ![alt text](https://github.com/paykun-code/Opencart-2.X/blob/master/screenshots/Dashboard-extension-payments.png)
         
+        Find Paykun Payment and follow below screen shot
         ![alt text](https://github.com/paykun-code/Opencart-2.X/blob/master/screenshots/Payments-install-and-enter-all.png)
         
     
