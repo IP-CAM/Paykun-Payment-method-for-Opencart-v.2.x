@@ -19,12 +19,6 @@ class ControllerPaymentPaykun extends Controller {
 
 		$order_info = $this->model_checkout_order->getOrder($this->session->data['order_id']);
 
-		$mobile_no = "";
-		if(isset($order_info['telephone'])){
-			$mobile_no = preg_replace('/\D/', '', $order_info['telephone']);
-		}
-
-
 		/*Set payment Params*/
 		$this->_merchantId = $this->config->get('paykun_merchant_id');
 		$this->_accessToken = $this->config->get('paykun_access_token');
